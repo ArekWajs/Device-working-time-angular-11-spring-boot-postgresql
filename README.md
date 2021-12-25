@@ -1,4 +1,4 @@
-# Angular 11 + Spring Boot + PostgreSQL: Build CRUD example
+# Angular 11 + Spring Boot + PostgreSQL
 
 For more details:
 
